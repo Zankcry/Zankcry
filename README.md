@@ -9,11 +9,7 @@
     Hello, I'm an IT undergraduate from Holy Angel University based in Pampanga, Philippines 🇵🇭. I'm primarily a Frontend Web Developer, but I'm fully capable of working across the Full Stack. I am currently looking for internships to further apply my knowledge in real-world environments.
   </p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/james-michael-duque-100154350/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:duquejames657@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://x.com/Zankcry1"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
-  </p>
+
 </div>
 
 
@@ -43,6 +39,13 @@
 
 #
 
+
 <div align="center">
   <p>Feel free to check out my <a href="https://www.james-michael.dev">Portfolio Website</a>, Reach out via <a href="mailto:duquejames657@gmail.com">email</a>, or connect on <a href="https://www.linkedin.com/in/james-michael-duque-100154350/">LinkedIn</a>!</p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/james-michael-duque-100154350/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:duquejames657@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://x.com/Zankcry1"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
+  </p>
 </div>
