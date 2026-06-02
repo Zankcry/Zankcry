@@ -18,7 +18,7 @@
 
 
 
-### Technology Stack
+<h3 align="center">Technology Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -41,8 +41,7 @@
 
 </p>
 
----
-
+#
 
 <div align="center">
   <p>Feel free to check out my <a href="https://www.james-michael.dev">Portfolio Website</a>, Reach out via <a href="mailto:duquejames657@gmail.com">email</a>, or connect on <a href="https://www.linkedin.com/in/james-michael-duque-100154350/">LinkedIn</a>!</p>
